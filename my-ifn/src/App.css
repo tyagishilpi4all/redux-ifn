@@ -1,0 +1,10 @@
+.formodel{
+  position:absolute;
+  top:30%;
+  width:80%;
+  left:50%;
+  right:50%;
+  z-index:99;
+  transform: translate(-50% ,-50%);                        
+  transition:2s
+}
